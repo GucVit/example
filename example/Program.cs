@@ -14,6 +14,7 @@ namespace example
             b = 4;
             sum = a + b;
             Console.WriteLine();
+            Console.WriteLine();
             Console.Write("Sum: " + sum);
             Console.WriteLine();
             Console.ReadLine();
